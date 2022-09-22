@@ -21,12 +21,19 @@ And then other words to describe what the texture needs to be and/or some artist
 So these are all made with Unity engine using the **URP - Universal Render Pipeline**. The version used is 2020.3.30. I wanted to make sure that this repository is fairly backwards compatible and can adapt to newer versions just fine. Even if not, shader graphs should be easy to be updated on the go.
 
 
-
 ### Example media shown below:
 
-https://user-images.githubusercontent.com/12729230/191636418-545d6784-5ce5-4861-95c6-87d3ee25b999.mp4
+Liquid shader with many possibilities
+https://user-images.githubusercontent.com/12729230/191640081-a9a1b530-c6e0-4670-a996-e95caf8e3dfa.mp4
 
+Particle dissolve with displacement
 https://user-images.githubusercontent.com/12729230/191636729-65caa62e-bf3e-4c4c-916d-4cd561d8859d.mp4
+
+Parallax shader with an Ice and Marble texture
+https://user-images.githubusercontent.com/12729230/191641167-9d1ad8ba-be09-4e20-88fd-5a5ee119c2b5.mp4
+
+https://user-images.githubusercontent.com/12729230/191641376-aa17665f-334d-4754-aeef-97121d36a80f.mp4
+
 
 ## Collaboration
 This project is very open to contribution and collaboration. Just go ahead and open a pull request to suggest your changes and then I'll get to it whenever I can. I'm just doing this solo tho, so expect hiccups :)
