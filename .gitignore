@@ -21,6 +21,7 @@
 
 # Visual Studio cache directory
 .vs/
+gude-*
 
 # Gradle cache directory
 .gradle/
